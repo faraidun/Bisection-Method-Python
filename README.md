@@ -7,5 +7,4 @@ This is a bisection method google sheet
 
 This down below is a from collab
 
-
 https://colab.research.google.com/drive/1NtoUzIEaJ4jsMITX7ooV9biOvamQPdPX?usp=sharing
